@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\C# Bootcamp\Exponents Table\Exponents Table\obj\Debug\net6.0\Exponents Table.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Exponents Table\Exponents Table\obj\Debug\net6.0\Exponents Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\C# Bootcamp\Exponents Table\Exponents Table\obj\Debug\net6.0\Exponents Table.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Exponents Table\Exponents Table\obj\Debug\net6.0\Exponents Table.AssemblyInfo.cs
+C:\Users\Owner\Desktop\C# Bootcamp\Exponents Table\Exponents Table\obj\Debug\net6.0\Exponents Table.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Exponents Table\Exponents Table\bin\Debug\net6.0\Exponents Table.exe
+C:\Users\Owner\Desktop\C# Bootcamp\Exponents Table\Exponents Table\bin\Debug\net6.0\Exponents Table.deps.json
+C:\Users\Owner\Desktop\C# Bootcamp\Exponents Table\Exponents Table\bin\Debug\net6.0\Exponents Table.runtimeconfig.json
+C:\Users\Owner\Desktop\C# Bootcamp\Exponents Table\Exponents Table\bin\Debug\net6.0\Exponents Table.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Exponents Table\Exponents Table\bin\Debug\net6.0\Exponents Table.pdb
+C:\Users\Owner\Desktop\C# Bootcamp\Exponents Table\Exponents Table\obj\Debug\net6.0\Exponents Table.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Exponents Table\Exponents Table\obj\Debug\net6.0\refint\Exponents Table.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Exponents Table\Exponents Table\obj\Debug\net6.0\Exponents Table.pdb
+C:\Users\Owner\Desktop\C# Bootcamp\Exponents Table\Exponents Table\obj\Debug\net6.0\Exponents Table.genruntimeconfig.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Exponents Table\Exponents Table\obj\Debug\net6.0\ref\Exponents Table.dll
